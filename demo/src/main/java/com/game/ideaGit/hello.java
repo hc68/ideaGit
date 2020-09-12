@@ -9,5 +9,6 @@ public class hello {
         System.out.println("第一次修改");
         System.out.println("dev分支添加");
         System.out.println("测试冲突，主干添加");
+        System.out.println("冲突测试，dev分支添加");
     }
 }

@@ -10,5 +10,6 @@ public class hello {
         System.out.println("dev分支添加");
         System.out.println("测试冲突，主干添加");
         System.out.println("冲突测试，dev分支添加");
+        System.out.println("本地仓库和远程仓库不同");
     }
 }
